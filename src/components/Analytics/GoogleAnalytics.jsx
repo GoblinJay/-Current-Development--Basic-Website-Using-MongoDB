@@ -1,3 +1,4 @@
+/*
 import React, { useEffect } from 'react';
 
 const GoogleAnalytics = () => {
@@ -35,3 +36,4 @@ const GoogleAnalytics = () => {
 };
 
 export default GoogleAnalytics;
+*/

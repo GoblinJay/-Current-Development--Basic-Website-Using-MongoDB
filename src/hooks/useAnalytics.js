@@ -2,6 +2,7 @@ import { useEffect } from 'react';
 
 const useAnalytics = () => {
     useEffect(() => {
+        /*
         // Initialize Google Analytics
         const handleAnalytics = () => {
             // Your Google Analytics tracking code here
@@ -17,7 +18,9 @@ const useAnalytics = () => {
         };
 
         handleHotjar();
+        */
     }, []);
+    
 
     return null; // This hook does not render anything
 };

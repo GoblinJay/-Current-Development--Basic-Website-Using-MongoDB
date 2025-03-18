@@ -5,15 +5,13 @@ import Profile from './pages/Profile';
 import LoginRegister from './pages/LoginRegister';
 import SEO from './components/SEO';
 import PWA from './components/PWA';
-import GoogleAnalytics from './components/Analytics/GoogleAnalytics';
-import Hotjar from './components/Analytics/Hotjar';
+//import GoogleAnalytics from './components/Analytics/GoogleAnalytics';
+//import Hotjar from './components/Analytics/Hotjar';
 
 const App = () => {
     return (
         <Router>
             <SEO />
-            <GoogleAnalytics />
-            <Hotjar />
             <PWA />
             <Switch>
                 <Route path="/" exact component={Home} />

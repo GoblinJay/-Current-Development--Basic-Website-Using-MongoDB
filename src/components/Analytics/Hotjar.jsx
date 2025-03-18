@@ -1,3 +1,4 @@
+/*
 import React, { useEffect } from 'react';
 
 const Hotjar = () => {
@@ -26,3 +27,4 @@ const Hotjar = () => {
 };
 
 export default Hotjar;
+*/
